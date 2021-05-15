@@ -16,6 +16,3 @@
 - [图文详解 Dijkstra 最短路径算法](https://chinese.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
 - [REST API 教程：REST 客户端，REST 服务及 API 调用（含代码示例）](https://chinese.freecodecamp.org/news/rest-api-tutorial-rest-client-rest-service-and-api-calls-explained-with-code-examples/)
 <!-- BLOG-POST-LIST:END -->
-
----
-![Profile views](https://gpvc.arturio.dev/humilitas)  
