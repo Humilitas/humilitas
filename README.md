@@ -5,6 +5,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript 数组完全手册](https://chinese.freecodecamp.org/news/the-javascript-array-handbook/)
 - [通过创建计数器应用程序来学习 Redux](https://chinese.freecodecamp.org/news/learn-redux-by-making-a-counter-application/)
 - [Fetch API – 如何在 JavaScript 中发出 GET 请求和 POST 请求](https://chinese.freecodecamp.org/news/how-to-make-api-calls-with-fetch/)
 - [五个关键的 React 知识点](https://chinese.freecodecamp.org/news/5-react-lessons-tutorials-dont-teach/)
@@ -14,5 +15,4 @@
 - [DOM 完全指南](https://chinese.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/)
 - [JavaScript 函数式编程入门指南](https://chinese.freecodecamp.org/news/functional-programming-in-javascript-for-beginners/)
 - [什么是毛玻璃效果（Glassmorphism）？仅使用 HTML 和 CSS 来实现](https://chinese.freecodecamp.org/news/glassmorphism-design-effect-with-html-css/)
-- [什么是模糊测试（含示例）](https://chinese.freecodecamp.org/news/whats-fuzzing-fuzz-testing-explained/)
 <!-- BLOG-POST-LIST:END -->
