@@ -5,6 +5,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML 中的空格](https://chinese.freecodecamp.org/news/html-space-how-to-add-spaces/)
 - [使用 CSS 制作丝带效果](https://chinese.freecodecamp.org/news/make-a-css-only-ribbon/)
 - [什么是 .gitkeep？如何让 Git 追踪空文件夹](https://chinese.freecodecamp.org/news/what-is-gitkeep/)
 - [构建可重用的 React 组件](https://chinese.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/)
@@ -14,5 +15,4 @@
 - [Fetch API – 如何在 JavaScript 中发出 GET 请求和 POST 请求](https://chinese.freecodecamp.org/news/how-to-make-api-calls-with-fetch/)
 - [五个关键的 React 知识点](https://chinese.freecodecamp.org/news/5-react-lessons-tutorials-dont-teach/)
 - [用 CSS 实现自定义滚动条样式](https://chinese.freecodecamp.org/news/css-scrollbar-tutorial/)
-- [MVC 架构详解](https://chinese.freecodecamp.org/news/the-model-view-controller-pattern-mvc-architecture-and-frameworks-explained/)
 <!-- BLOG-POST-LIST:END -->
