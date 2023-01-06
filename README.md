@@ -5,6 +5,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [使用 CSS 构建 Figma logo](https://www.freecodecamp.org/chinese/news/learn-css-by-creating-the-figma-logo-in-pure-css/)
 - [HTML 中的空格](https://www.freecodecamp.org/chinese/news/html-space-how-to-add-spaces/)
 - [使用 CSS 制作丝带效果](https://www.freecodecamp.org/chinese/news/make-a-css-only-ribbon/)
 - [什么是 .gitkeep？如何让 Git 追踪空文件夹](https://www.freecodecamp.org/chinese/news/what-is-gitkeep/)
@@ -14,5 +15,4 @@
 - [通过创建计数器应用程序来学习 Redux](https://www.freecodecamp.org/chinese/news/learn-redux-by-making-a-counter-application/)
 - [Fetch API – 如何在 JavaScript 中发出 GET 请求和 POST 请求](https://www.freecodecamp.org/chinese/news/how-to-make-api-calls-with-fetch/)
 - [五个关键的 React 知识点](https://www.freecodecamp.org/chinese/news/5-react-lessons-tutorials-dont-teach/)
-- [用 CSS 实现自定义滚动条样式](https://www.freecodecamp.org/chinese/news/css-scrollbar-tutorial/)
 <!-- BLOG-POST-LIST:END -->
