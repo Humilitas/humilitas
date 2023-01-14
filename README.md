@@ -6,7 +6,7 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [使用 CSS 构建 Figma logo](https://www.freecodecamp.org/chinese/news/learn-css-by-creating-the-figma-logo-in-pure-css/)
-- [Javascript 变量提升—— let/const 定义的变量与 var 定义的变量有何不同](https://www.freecodecamp.org/chinese/news/javascript-let-and-const-hoisting/)
+- [JavaScript 变量提升——let/const 定义的变量与 var 定义的变量有何不同](https://www.freecodecamp.org/chinese/news/javascript-let-and-const-hoisting/)
 - [HTML 中的空格](https://www.freecodecamp.org/chinese/news/html-space-how-to-add-spaces/)
 - [使用 CSS 制作丝带效果](https://www.freecodecamp.org/chinese/news/make-a-css-only-ribbon/)
 - [什么是 .gitkeep？如何让 Git 追踪空文件夹](https://www.freecodecamp.org/chinese/news/what-is-gitkeep/)
